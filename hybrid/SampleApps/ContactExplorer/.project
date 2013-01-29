@@ -3,6 +3,7 @@
 	<name>ContactExplorer</name>
 	<comment></comment>
 	<projects>
+		<project>SalesforceSDK</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
